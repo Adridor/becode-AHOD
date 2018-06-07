@@ -49,3 +49,7 @@ Sammuel Janssens - [@SammuelJ](https://github.com/SammuelJ)
 1. Petite pause de midi ! Miam miam ! :bento:
 1. Reprise et grosse session de coding
 
+## Ressources
+
+### Mockup
+

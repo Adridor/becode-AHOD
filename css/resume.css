@@ -104,7 +104,6 @@ h2 {
 }
 
 section.resume-section {
-  border-bottom: 1px solid #dee2e6;
   padding-top: 5rem !important;
   padding-bottom: 5rem !important;
 }
@@ -150,4 +149,9 @@ a:hover, a:focus, a:active {
     height: 45vh;
 }
 
-.
+.tab-style {
+  display: flex;
+}
+.tab-style p {
+  margin: auto 0 auto 1rem;
+}
