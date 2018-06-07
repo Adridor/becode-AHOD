@@ -21,3 +21,4 @@ Sammuel Janssens - [@SammuelJ](https://github.com/SammuelJ)
 	* Temps : ```5 minutes```
 1. Prise de connaissance du projet ainsi que des besoins du client
 
+
