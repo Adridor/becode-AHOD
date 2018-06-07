@@ -32,6 +32,22 @@ h2 {
   font-size: 3.5rem;
 }
 
+.newsletter{
+  padding-top: 2vh;
+  padding-bottom: 8vh;
+}
+
+.email{
+  margin-left: 1vh;
+  width: 27.5vh;
+}
+
+.pseudo{
+  margin-left: 2vh;
+  width: 25vh;
+
+}
+
 .subheading {
   text-transform: uppercase;
   font-weight: 500;
