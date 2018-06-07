@@ -162,10 +162,10 @@ self.addEventListener('install', function(event) {
               return fetch(request).then(function(response) {
                 // Bail out of installation unless we get back a 200 OK for
                 // every request.
-                if (!response.ok) {
-                  throw new Error('Request for ' + cacheKey + ' returned a ' +
-                    'response with status ' + response.status);
-                }
+                // if (!response.ok) {
+                //   throw new Error('Request for ' + cacheKey + ' returned a ' +
+                //     'response with status ' + response.status);
+                // }
 
                 return cleanResponse(response).then(function(responseToCache) {
                   return cache.put(cacheKey, responseToCache);
