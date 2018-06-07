@@ -1,14 +1,14 @@
 # Challenge (AHOD) - #22
 
-* Equipe : ```true```  
-* Durée : ```6 heures``` _(10h30 -> 16h30)_
+* **Equipe** : ```true```  
+* **Durée** : ```6 heures``` _(10h30 -> 16h30)_
 * [Critères d'évalutation](https://github.com/becodeorg/lovelace-2/blob/master/Projects/challenge-six-hours-team/criteria.md)
-* Où : [@BeCode](http://becode.org) - Cantersteen 10, 1000 Bruxelles
+* **Où** : [@BeCode](http://becode.org) - Cantersteen 10, 1000 Bruxelles
 	* Durant la formation BeCode
-* Client : ```Le Funambule ASBL```  
-* Besoin : Création d'un one-pager représentant bien l'association.
-* Description ASBL : Association qui propose des groupes de parole aux personnes atteintes de trouble de la bipolarité ainsi que leurs proches
-* Site actuel : [funambuleinfo.be](https://www.funambuleinfo.be/)
+* **Client** : ```Le Funambule ASBL```  
+* **Besoin** : Création d'un one-pager représentant bien l'association.
+* **Description ASBL** : Association qui propose des groupes de parole aux personnes atteintes de trouble de la bipolarité ainsi que leurs proches
+* **Site actuel** : [funambuleinfo.be](https://www.funambuleinfo.be/)
 ## Prévisualisation
 ![Image]()
 #### [Voir le résultat](https://sammuelj.github.io/becode-AHOD/)
