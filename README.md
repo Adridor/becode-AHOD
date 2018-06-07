@@ -9,6 +9,7 @@
 * **Besoin** : Création d'un one-pager représentant bien l'association.
 * **Description ASBL** : Association qui propose des groupes de parole aux personnes atteintes de trouble de la bipolarité ainsi que leurs proches
 * **Site actuel** : [funambuleinfo.be](https://www.funambuleinfo.be/)
+
 ## Prévisualisation
 ![Image]()
 #### [Voir le résultat](https://sammuelj.github.io/becode-AHOD/)
