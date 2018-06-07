@@ -34,7 +34,7 @@
           <img class="img-fluid img-profile mx-auto my-5" src="images/logo.jpg" alt="">
         </span>
       </a>
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent">
         <span class="navbar-toggler-icon"></span>
       </button>
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
@@ -96,8 +96,8 @@
               <h3 class="mb-0">Abonnez-vous à notre newsletter</h3>
               <div class="subheading mb-3"> </div>
                 <form action="index.html" method="post" name="newsletter">
-                  Adresse email: <input type="text" name="email" required>
-                    Prénom ou pseudo: <input type="text" name="pseudo" required>
+                  Adresse email: <input type="text" name="email" required="example@example.com" label="adresse mail">
+                    Prénom ou pseudo: <input type="text" name="pseudo" required="NameExample" label="Nom">
                       <input type="submit" name="send" value="Je m'abonne">
                 </form>
             </div>
@@ -119,19 +119,19 @@
           <h3>Trouvez votre réunion</h3>
           <ul class="nav nav-tabs" id="myTab" role="tablist">
             <li class="nav-item">
-              <a class="nav-link active" id="Schaerbeek-tab" data-toggle="tab" href="#Schaerbeek" role="tab" aria-controls="Schaerbeek" aria-selected="true">Schaerbeek</a>
+              <a class="nav-link active" id="Schaerbeek-tab" data-toggle="tab" href="#Schaerbeek" role="tab" >Schaerbeek</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" id="Jette-tab" data-toggle="tab" href="#Jette" role="tab" aria-controls="Jette" aria-selected="false">Jette</a>
+              <a class="nav-link" id="Jette-tab" data-toggle="tab" href="#Jette" role="tab">Jette</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" id="Gilles-tab" data-toggle="tab" href="#Gilles" role="tab" aria-controls="Saint-Gilles" aria-selected="false">Saint-Gilles</a>
+              <a class="nav-link" id="Gilles-tab" data-toggle="tab" href="#Gilles" role="tab">Saint-Gilles</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" id="Namur-tab" data-toggle="tab" href="#Namur" role="tab" aria-controls="Namur-centre" aria-selected="false">Namur-centre</a>
+              <a class="nav-link" id="Namur-tab" data-toggle="tab" href="#Namur" role="tab">Namur-centre</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" id="Servais-tab" data-toggle="tab" href="#Servais" role="tab" aria-controls="Saint-Servais" aria-selected="false">Saint-Servais</a>
+              <a class="nav-link" id="Servais-tab" data-toggle="tab" href="#Servais" role="tab">Saint-Servais</a>
             </li>
           </ul>
           <div class="tab-content" id="myTabContent">
@@ -211,7 +211,6 @@
           </a>
           </div>
         </section>-->
-
         <section class="Contact" id="Contact">
           <div class="row">
             <h2>Envoyez nous un petit message...</h2>
@@ -227,11 +226,11 @@
                 </div>
                 <div class="form-group">
                     <label for="exampleInputEmail1">Email address</label>
-                    <input type="email" class="form-control" id="Email1" aria-describedby="email" placeholder="Votre adresse mail">
+                    <input type="email" class="form-control" id="Email1" placeholder="Votre adresse mail">
                 </div>
                 <div class="form-group">
                     <label for="exampleInputEmail1">Numéro de téléphone</label>
-                    <input type="phone" class="form-control" id="phone" aria-describedby="phone" placeholder="Votre numéro de téléphone">
+                    <input type="phone" class="form-control" id="phone" placeholder="Votre numéro de téléphone">
                 </div>
 
                 <button type="submit" class="btn btn-primary">Submit</button>
