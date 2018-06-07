@@ -36,6 +36,15 @@ h2 {
   padding-top: 2vh;
   padding-bottom: 8vh;
 }
+.newsletter input#button {
+  border: 1px solid white;
+  background-color: #DF930A;
+  padding: 0.5rem 1rem;
+  color: white;
+  border-radius: 2em;
+  margin-top: 2rem;
+  font-size: 1.5rem;
+}
 #newsletter {
   background-color: red;  
   width: 100%;
