@@ -26,5 +26,5 @@
   "background_color": "#DD9226",
   "display": "minimal-ui",
   "scope": "./",
-  "start_url": "/"
+  "start_url": "index.html"
 }
