@@ -11,7 +11,7 @@
 * **Site actuel** : [funambuleinfo.be](https://www.funambuleinfo.be/)
 
 ## Prévisualisation
-![Image]()
+![Image](https://raw.githubusercontent.com/SammuelJ/becode-AHOD/master/prevu.png)
 #### [Voir le résultat](https://sammuelj.github.io/becode-AHOD/)
 
 ## Technologies utilisées
@@ -52,4 +52,6 @@ Sammuel Janssens - [@SammuelJ](https://github.com/SammuelJ)
 ## Ressources
 
 ### Mockup
+
+![mockup Image](https://raw.githubusercontent.com/SammuelJ/becode-AHOD/master/mockup.png)
 
